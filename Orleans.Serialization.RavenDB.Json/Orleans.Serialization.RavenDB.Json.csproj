@@ -39,9 +39,6 @@
     <Reference Include="Orleans">
       <HintPath>$(OrleansSDK)\Binaries\OrleansServer\Orleans.dll</HintPath>
     </Reference>
-    <Reference Include="OrleansProviderInterfaces">
-      <HintPath>$(OrleansSDK)\Binaries\OrleansServer\OrleansProviderInterfaces.dll</HintPath>
-    </Reference>
     <Reference Include="OrleansProviders">
       <HintPath>$(OrleansSDK)\Binaries\OrleansServer\OrleansProviders.dll</HintPath>
     </Reference>
